@@ -1,5 +1,5 @@
 # first_website_repo
-This is a tiny node/express server that used to power a simple html and css website
+This is a tiny node/express server that is used to power a simple html and css website
 
 ## Instructions
 All `npm` commands are to be executed in Git Bash
