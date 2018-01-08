@@ -1,0 +1,28 @@
+{
+  "name": "first_website",
+  "version": "0.0.1",
+  "description": "Tiny node server used to deploy simple html and css",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enyeInc/first_website_repo.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "node"
+  ],
+  "author": "Uche Nnadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enyeInc/first_website_repo/issues"
+  },
+  "homepage": "https://github.com/enyeInc/first_website_repo#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
